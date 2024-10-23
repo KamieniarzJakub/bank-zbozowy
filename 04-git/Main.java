@@ -1,5 +1,6 @@
 public class Main {
   int a = 11;
+  int b = 90;
   int x = 5;
   int z = 6;
 
